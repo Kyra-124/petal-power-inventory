@@ -1,9 +1,6 @@
 # petal-power-inventory
 You’re the lead data analyst for a chain of gardening stores called Petal Power. Help them analyze their inventory!
 
-import codecademylib3
-import pandas as pd
-
 """
 task 1
 Data for all of the locations of Petal Power is in the file inventory.csv. Load the data into a DataFrame called inventory. 
